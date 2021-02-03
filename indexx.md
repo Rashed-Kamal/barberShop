@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Redressed&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Barber Shop</title>
+</head>
+<body>
+    <header>
+        <img src="/img/logo2.png" alt="Hornshell logo" class="logo-img">
+        <nav class="header__nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href=""></a>Services</li>
+                <li><a href=""></a>Products</li>
+                <li><a href=""></a>About us</li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <div class="content">
+            <div class="split">
+                <h1 class="section-title">Personalised Hair Styling</h1>
+                <p class="hero__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur atque qui laborum dolorem! Aliquid cum earum, maxime veritatis omnis cumque reprehenderit optio labore repellat ipsa.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="intro">
+        <h2>Something for everyone</h2>
+            <div class="tiles">
+                <div class="tile">
+                    <img src="/img/tiles/hair.jpg" alt="hair styling" class="hair">
+                    <h3>Hair Style</h3>
+                    <p> <img src="" alt="" class="tile__img">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <div class="tile">
+                    <img src="/img/tiles/shave.jpg" alt="shaving" class="shave">
+                    <h3>Shaving</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                </div>
+                <div class="tile">
+                    <img src="/img/tiles/trim.jpg" alt="trimming" class="trim">
+                    <h3>Trimming</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                </div>
+                <div class="tile">
+                    <img src="/img/tiles/Personal.jpg" alt="personalised style" class="personal">
+                    <h3>Personalised</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                </div>
+            </div>
+    </section>
+
+
+    <section class="barber-info">
+        <h2 class="title">Our Authentic Barber</h2>
+        <div class="barber__layout">
+            <div class="barber__details">            
+                <h3 class="title-small">Passionate and experienced barber who understand your personality and style</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic voluptas omnis quos suscipit eos quisquam, nostrum modi, atque odio tempora aliquam laboriosam</p>
+                <div class="barber__btn">
+                    <p class="barber__icon"><uppercase>Know our Barber</uppercase> f178</p>
+                </div>
+            </div>
+            <div class="img__container">
+            <!---    <img class="img__itself" src="/img/Barber1.jpg" alt="barber is doing his job"> -->
+            </div> 
+        </div>
+    </section>
+
+
+    <section class="booking">
+        <h2 class="booking__title">Book your appointment now</h2>
+        <p class="booking__narrative">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis magnam, obcaecati quis cupiditate quae quas fugit, fuga molestiae nemo neque, ipsum vero quaerat rem officia enim accusantium quos voluptas consequatur.</p>
+        <a href="" class="btn">Booking</a>
+        <h3 class="walkin">Walk in welcome</h3>
+    </section>
+
+
+    <section class="feature">
+        <h2>Our nish products for you</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed felis duis enim</p>
+        <div class="products">
+            <div class="product">
+                <img src="/img/Products/crew.jpg" alt="" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div>
+            <div class="product">
+                <img src="/img/Products/matt.jpg" alt="" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div><div class="product">
+                <img src="/img/Products/pure.jpg" alt="" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div><div class="product">
+                <img src="/img/Products/rhino.jpg" alt="rhino cream" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div><div class="product">
+                <img src="/img/Products/black.jpg" alt="black cream" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div><div class="product">
+                <img src="/img/Products/suavecito.jpg" alt="suavecito cream" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div><div class="product">
+                <img src="/img/Products/crewBlack.jpg" alt="crewBlack cream" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div><div class="product">
+                <img src="/img/Products/honey.jpg" alt="honey melon cream" class="product__img">
+                <h3 class="product__title">Ametican Crew</h3>
+                <img src="" alt="" class="rating">
+            </div>
+        </div>    
+        <div class="btn product__btn">More Products</div>
+    </section>
+
+    <section class="feedback">
+        <h2>Your feedback</h2>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos rem dolor distinctio</p>
+        <div class="cmt__container cmt__left">
+            <p class="cmt cmt1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia ducimus facilis sapiente, dolores saepe provident ex vitae commodi laboriosam ab ipsum aspernatur deleniti nesciunt magni consequuntur. </p>
+            <br><p class="cmt__auth">-------Alison</p>
+        </div>
+        <div class="cmt__container cmt__right">
+            <p class="cmt cmt2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore veritatis nobis, dolorem quidem modi omnis pariatur deleniti, sequi, id optio et sapiente. Incidunt, ab magnam laudantium at beatae sed dignissimos.</p>
+            <br><p class="cmt__auth">-------Jonathon</p>
+        </div>
+    </section>
+
+    <section class="schedule">
+        
+        <h2 class="open__title">Trading hours</h2>
+        <p class="opening">
+            Monday--------10AM - 7PM</span><br><br>
+            Tuesday --------10AM - 7PM<br><br>
+            Wednesday------10AM - 7PM<br><br>
+            Thursday-------10AM - 7PM<br><br>
+            Friday---------10AM - 7PM<br><br>
+            Saterday-------10AM - 4PM<br><br>
+            Sunday-------10AM - 5PM            
+        </p>
+    </section>
+
+    <footer>
+        <div class="footer__nav">
+            <div>
+                <h3>HornShell HairStyling</h3>
+                <ul class="footer_list">
+                    <li>About Us</li>
+                    <li>Services</li>
+                    <li>Styling Products</li>
+                    <li></li>
+                </ul>
+            </div>
+            
+            <div>
+                <h3>Out Services</h3>
+                <ul class="footer_list">
+                    <li>Hair Styling</li>
+                    <li>Shaving</li>
+                    <li>Trimming</li>
+                    <li>Personalised Styling</li>
+                </ul>
+            </div>
+            <div>
+                
+                <h3>Location</h3>
+                <address>
+                    <p>
+                    123 Hill Road <br>
+                    Shop 54, Runcorn plaza<br>
+                    Brisbane, QLD 4113
+                    </p>
+                </address>
+            
+            </div>
+            <div>
+                <h3>Contact Us</h3>
+                <p>
+                <a href="tel:1300567756"><span class="phone">1300 567 756</span></a><br>
+                <a href="mailto:barber@hornshell.com.au">barber@hornshell</a><br>
+                <br href="">Online Form</br>
+                </p>
+
+            </div>
+            <div>
+                <h3>Social</h3>
+                
+                <ul class="footer_list">
+                    <li>facebook</li>
+                    <li>Instagram</li>
+                    <li>YouTube</li>
+                    <li>Twiter</li>
+                </ul>
+                
+            </div>
+        </div>
+        <div>
+            <hr>
+            copyright@Hornshell 2021
+        </div>
+
+    </footer>
+
+
+    
+</body>
+</html>
