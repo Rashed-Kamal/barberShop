@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <img src="/img/logo2.png" alt="Hornshell logo" class="logo-img">
+        <img src="./img/logo2.png" alt="Hornshell logo" class="logo-img">
         <nav class="header__nav">
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -33,7 +33,7 @@
         <h2>Something for everyone</h2>
             <div class="tiles">
                 <div class="tile">
-                    <img src="/img/tiles/hair.jpg" alt="hair styling" class="hair">
+                    <img src="./img/tiles/hair.jpg" alt="hair styling" class="hair">
                     <h3>Hair Style</h3>
                     <p> <img src="" alt="" class="tile__img">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
