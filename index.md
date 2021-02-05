@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <img src="./img/logo2.png" alt="Hornshell logo" class="logo-img">
+        <img src="img/logo2.png" alt="Hornshell logo" class="logo-img">
         <nav class="header__nav">
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -33,23 +33,23 @@
         <h2>Something for everyone</h2>
             <div class="tiles">
                 <div class="tile">
-                    <img src="./img/tiles/hair.jpg" alt="hair styling" class="hair">
+                    <img src="img/tiles/hair.jpg" alt="hair styling" class="hair">
                     <h3>Hair Style</h3>
                     <p> <img src="" alt="" class="tile__img">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
                 <div class="tile">
-                    <img src="/img/tiles/shave.jpg" alt="shaving" class="shave">
+                    <img src="img/tiles/shave.jpg" alt="shaving" class="shave">
                     <h3>Shaving</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                 </div>
                 <div class="tile">
-                    <img src="/img/tiles/trim.jpg" alt="trimming" class="trim">
+                    <img src="img/tiles/trim.jpg" alt="trimming" class="trim">
                     <h3>Trimming</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                 </div>
                 <div class="tile">
-                    <img src="/img/tiles/Personal.jpg" alt="personalised style" class="personal">
+                    <img src="img/tiles/Personal.jpg" alt="personalised style" class="personal">
                     <h3>Personalised</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
                 </div>
@@ -87,36 +87,36 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed felis duis enim</p>
         <div class="products">
             <div class="product">
-                <img src="/img/Products/crew.jpg" alt="" class="product__img">
+                <img src="img/Products/crew.jpg" alt="" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div>
             <div class="product">
-                <img src="/img/Products/matt.jpg" alt="" class="product__img">
+                <img src="img/Products/matt.jpg" alt="" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div><div class="product">
-                <img src="/img/Products/pure.jpg" alt="" class="product__img">
+                <img src="img/Products/pure.jpg" alt="" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div><div class="product">
-                <img src="/img/Products/rhino.jpg" alt="rhino cream" class="product__img">
+                <img src="img/Products/rhino.jpg" alt="rhino cream" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div><div class="product">
-                <img src="/img/Products/black.jpg" alt="black cream" class="product__img">
+                <img src="img/Products/black.jpg" alt="black cream" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div><div class="product">
-                <img src="/img/Products/suavecito.jpg" alt="suavecito cream" class="product__img">
+                <img src="img/Products/suavecito.jpg" alt="suavecito cream" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div><div class="product">
-                <img src="/img/Products/crewBlack.jpg" alt="crewBlack cream" class="product__img">
+                <img src="img/Products/crewBlack.jpg" alt="crewBlack cream" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div><div class="product">
-                <img src="/img/Products/honey.jpg" alt="honey melon cream" class="product__img">
+                <img src="img/Products/honey.jpg" alt="honey melon cream" class="product__img">
                 <h3 class="product__title">Ametican Crew</h3>
                 <img src="" alt="" class="rating">
             </div>
